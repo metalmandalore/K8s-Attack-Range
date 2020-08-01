@@ -19,4 +19,4 @@ Container Command to launch bloodhound
 `./Bloodhound --no-sandbox`
 Login with neo4j password
 
-# This is still a work in progress, I have not been able to get it to run on Mac yet, and I'm testing it on linux tonight
+#### This is still a work in progress, I have not been able to get it to run on Mac yet, but it works fine on Linux
