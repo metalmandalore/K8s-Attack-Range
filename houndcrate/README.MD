@@ -1,6 +1,6 @@
 # The dockerfile creates a docker contianer that runs bloodhound
 If you're using docker correctly, you're not running it as root
-So you can give the docker group permissions to access xhost with `xhost local:docker`
+So you can give the docker group permissions to access xhost with `xhost + local:docker`
 This permission will be revoked when the system is restarted
 
 
